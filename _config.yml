@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
-title: Agent学习笔记
-description: 从0到秋招的逆袭之路
+# Jekyll 站点配置
+title: MXy1128 的 Agent 学习笔记
+description: 秋招冲刺｜从0到Agent开发工程师
+baseurl: ""  # 保持为空，因为你的站点是 https://MXy1128.github.io
+url: "https://MXy1128.github.io"
+
+# 主题（GitHub Pages 支持的主题）
+# 可选： minima, cayman, hacker, 或者用 remote_theme
+theme: minima
+
+# 文章链接格式
+permalink: /blog/:year/:month/:day/:title/
+
+# 排除不需要的文件（不写进网站）
+exclude:
+  - README.md
+  - .gitignore
