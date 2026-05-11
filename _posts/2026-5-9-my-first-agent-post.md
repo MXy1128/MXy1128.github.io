@@ -1,10 +1,9 @@
-***
-
+---
 layout: post
 title: "从零开始：我为什么选择Agent开发"
 date: 2025-05-09
-categories: \[Agent, 秋招]
-------------------------
+categories: [Agent, 秋招]
+---
 
 ## 起点
 
